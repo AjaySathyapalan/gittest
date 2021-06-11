@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#echo "Enter the file Path: "  
 #read path
 path=("$@");
 search="assembly: AssemblyVersion";
